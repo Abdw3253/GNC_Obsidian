@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"c9eae72f7872c838","type":"file","file":"Attachments/png/2026_05_01_01_06_43049.png","x":-480,"y":-400,"width":400,"height":267},
+		{
+			"id":"0c9220c0100a943d",
+			"type":"text",
+			"text":"# Heding 1",
+			"styleAttributes":{},
+			"x":-440,
+			"y":0,
+			"width":300,
+			"height":80
+		}
+	],
+	"edges":[
+		{
+			"id":"711b95e9ceaff9d3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"0c9220c0100a943d",
+			"fromSide":"top",
+			"toNode":"c9eae72f7872c838",
+			"toSide":"bottom",
+			"label":"Cat"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

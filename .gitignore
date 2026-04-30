@@ -1,0 +1,17 @@
+#linux
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/themes/
+.obsidian/plugins/github-sync/
+
+#windows
+obsidian/workspace.json
+obsidian/workspace-mobile.json
+obsidian/cache/
+obsidian/appearance.json
+obsidian/graph.json
+obsidian/themes/
+obsidian/plugins/github-sync/

@@ -1,0 +1,7 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark-cobalt",
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@encore-disable-logo-on-hr": true,
+  "encore-settings@@blur-amount": "encore-blur-less"
+}
