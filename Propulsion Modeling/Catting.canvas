@@ -108,7 +108,6 @@
 			"height":60,
 			"color":"4"
 		},
-		{"id":"c9eae72f7872c838","type":"file","file":"Attachments/png/2026_05_01_01_06_43049.png","x":-340,"y":-360,"width":400,"height":267},
 		{
 			"id":"dd9300a615cf427e",
 			"type":"text",
@@ -121,17 +120,6 @@
 		}
 	],
 	"edges":[
-		{
-			"id":"711b95e9ceaff9d3",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"0c9220c0100a943d",
-			"fromSide":"top",
-			"toNode":"c9eae72f7872c838",
-			"toSide":"bottom",
-			"label":"Cat"
-		},
 		{
 			"id":"ab01f2c651d224a5",
 			"styleAttributes":{"pathfindingMethod":"direct"},
@@ -225,15 +213,6 @@
 			"fromNode":"40c8701b34921193",
 			"fromSide":"left",
 			"toNode":"463ee2cd3e13021a",
-			"toSide":"right"
-		},
-		{
-			"id":"34413d9ba7c4202e",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"dd9300a615cf427e",
-			"fromSide":"top",
-			"toNode":"c9eae72f7872c838",
 			"toSide":"right"
 		}
 	],
