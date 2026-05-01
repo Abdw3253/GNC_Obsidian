@@ -183,17 +183,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "fit:Sync to GitHub": false
     }
   },
-  "active": "b1d79464dc5fecb7",
+  "active": "b68aaf7bf4340374",
   "lastOpenFiles": [
     "Propulsion Modeling/Catting.canvas",
+    "Propulsion Modeling/Catting.canvas",
+    "Attachments/png/2026_05_01_01_06_43049.png",
     "Propulsion Modeling/Untitled.md",
+    "Propulsion Modeling/Untitled 1.md",
     "Propulsion Modeling/Lorem ipsum.md",
+    "Propulsion Modeling/Untitled 2.md",
+    "_fit/Attachments/pdf/article_3.pdf",
+    "_fit/Attachments/png/2026_05_01_01_06_43049.png",
+    "_fit/Attachments/pdf",
+    "_fit/Attachments/png",
+    "_fit/Propulsion Modeling/Lorem ipsum.md",
+    "_fit/Attachments",
+    "_fit/Propulsion Modeling",
+    "_fit",
     "Attachments/pdf/article_3.pdf",
     "Attachments/pdf",
-    "Attachments/png/2026_05_01_01_06_43049.png",
     "Attachments/png/fic.png",
     "Attachments/png",
     "Attachments/png/file-2026_05_01_01_06_10594.png",
@@ -203,17 +215,11 @@
     "Attachments/png/file-2026_05_01_01_06_08558.png",
     "Attachments/png/file-2026_05_01_01_06_07311.png",
     "Attachments/png/file-20260501010553228.png",
-    "Attachments/png/00 4.png",
     "Propulsion Modeling/attachment/png",
-    "Propulsion Modeling/attachment",
     "Propulsion Modeling/Main.canvas",
-    "Untitled.base",
     "Untitled.md",
     "Propulsion Modeling/Testing github.md",
     "Untitled/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Untitled.md",
-    "Untitled",
-    "Welcome.md",
-    "Attachments",
-    "Propulsion Modeling"
+    "Welcome.md"
   ]
 }
