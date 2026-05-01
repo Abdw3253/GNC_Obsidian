@@ -11,10 +11,17 @@
             "id": "6d4f7c0769442df7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Propulsion Modeling/Catting.canvas",
+                "viewState": {
+                  "x": -400,
+                  "y": 420,
+                  "zoom": -1.4712409209269306
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Catting"
             }
           }
         ]
