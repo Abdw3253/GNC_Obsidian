@@ -58,16 +58,6 @@
 			"height":80
 		},
 		{
-			"id":"dd9300a615cf427e",
-			"type":"text",
-			"text":"esmaha car",
-			"styleAttributes":{},
-			"x":0,
-			"y":-40,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"93ca456b88c837e6",
 			"type":"text",
 			"text":"$\\omega=\\dfrac{1}{2 }\\times \\sqrt{ 15}$",
@@ -118,7 +108,17 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"c9eae72f7872c838","type":"file","file":"Attachments/png/2026_05_01_01_06_43049.png","x":-340,"y":-360,"width":400,"height":267}
+		{"id":"c9eae72f7872c838","type":"file","file":"Attachments/png/2026_05_01_01_06_43049.png","x":-340,"y":-360,"width":400,"height":267},
+		{
+			"id":"dd9300a615cf427e",
+			"type":"text",
+			"text":"esmaha car",
+			"styleAttributes":{},
+			"x":150,
+			"y":-123,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
 		{
