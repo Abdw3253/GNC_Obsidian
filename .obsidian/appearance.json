@@ -1,4 +1,5 @@
 {
   "cssTheme": "Encore",
-  "accentColor": "#2a4b98"
+  "accentColor": "#2a4b98",
+  "baseFontSize": 20
 }

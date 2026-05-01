@@ -15,16 +15,34 @@
               "state": {
                 "file": "Propulsion Modeling/Catting.canvas",
                 "viewState": {
-                  "x": -160,
-                  "y": -47.5,
+                  "x": -7.969999999999946,
+                  "y": 585.42,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Catting"
             }
+          },
+          {
+            "id": "1541fe6907225853",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Propulsion Modeling/Catting.canvas",
+                "viewState": {
+                  "x": -236.45062374245552,
+                  "y": 699.6672032193148,
+                  "zoom": -0.2027692952161033
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Catting"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,31 +201,36 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false,
-      "fit:Sync to GitHub": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "b68aaf7bf4340374",
+  "active": "1541fe6907225853",
   "lastOpenFiles": [
-    "_fit/Attachments/png/2026_05_01_01_06_43049.png",
-    "_fit/Attachments/png",
-    "_fit/Propulsion Modeling/Catting.canvas",
-    "_fit/Attachments",
-    "_fit/Propulsion Modeling",
-    "_fit",
-    "Attachments/png/2026_05_01_01_06_43049.png",
-    "Attachments/png",
-    "Attachments",
-    "Propulsion Modeling/Main.canvas",
-    "Propulsion Modeling/Attachments/Cat_image.png",
+    "Propulsion Modeling/Lorem ipsum.md",
     "Propulsion Modeling/Catting.canvas",
+    "Attachments/pdf/article_3.pdf",
+    "Attachments/pdf",
+    "Attachments/png/2026_05_01_01_06_43049.png",
+    "Attachments/png/fic.png",
+    "Attachments/png",
+    "Attachments/png/file-2026_05_01_01_06_10594.png",
+    "Attachments/png/file-2026_05_01_01_06_10413.png",
+    "Attachments/png/file-2026_05_01_01_06_10134.png",
+    "Attachments/png/file-2026_05_01_01_06_09554.png",
+    "Attachments/png/file-2026_05_01_01_06_08558.png",
+    "Attachments/png/file-2026_05_01_01_06_07311.png",
+    "Attachments/png/file-20260501010553228.png",
+    "Attachments/png/00 4.png",
+    "Propulsion Modeling/attachment/png",
+    "Propulsion Modeling/attachment",
+    "Propulsion Modeling/Main.canvas",
     "Untitled.base",
     "Untitled.md",
     "Propulsion Modeling/Testing github.md",
     "Untitled/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Untitled.md",
     "Untitled",
     "Welcome.md",
-    "Propulsion Modeling/Attachments",
+    "Attachments",
     "Propulsion Modeling"
   ]
 }
