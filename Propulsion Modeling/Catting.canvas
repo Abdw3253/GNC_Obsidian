@@ -1,50 +1,7 @@
 {
 	"nodes":[
 		{"id":"30a55f6dc34b2cd7","type":"group","x":-1280,"y":-500,"width":660,"height":440,"color":"3","label":"مجموعة مع بعضها"},
-		{
-			"id":"be0c0d2606af59fe",
-			"type":"text",
-			"text":"ديه دايره",
-			"styleAttributes":{"shape":"circle","textAlign":"center"},
-			"x":-1260,
-			"y":-460,
-			"width":260,
-			"height":280,
-			"color":"6"
-		},
-		{
-			"id":"be5148ce539ee8c0",
-			"type":"text",
-			"text":"# ده عنوان كبير\n## ده عنوان اصغر\n",
-			"styleAttributes":{},
-			"x":-900,
-			"y":-433,
-			"width":260,
-			"height":227,
-			"color":"2"
-		},
-		{"id":"c9eae72f7872c838","type":"file","file":"Attachments/png/2026_05_01_01_06_43049.png","x":-340,"y":-360,"width":400,"height":267},
-		{
-			"id":"0c9220c0100a943d",
-			"type":"text",
-			"text":"# Heding 1",
-			"styleAttributes":{},
-			"x":-290,
-			"y":20,
-			"width":300,
-			"height":80
-		},
 		{"id":"bb5711035a78e622","type":"file","file":"Attachments/pdf/article_3.pdf","x":-1200,"y":20,"width":660,"height":400},
-		{
-			"id":"842a3a244c3b1d8e",
-			"type":"text",
-			"text":"ده PDF",
-			"styleAttributes":{"border":"invisible"},
-			"x":-420,
-			"y":180,
-			"width":100,
-			"height":80
-		},
 		{
 			"id":"48cffef1e87d5b59",
 			"type":"text",
@@ -98,6 +55,59 @@
 			"y":800,
 			"width":210,
 			"height":100
+		},
+		{
+			"id":"842a3a244c3b1d8e",
+			"type":"text",
+			"text":"ده PDF",
+			"styleAttributes":{"border":"invisible"},
+			"x":-420,
+			"y":180,
+			"width":100,
+			"height":80
+		},
+		{
+			"id":"0c9220c0100a943d",
+			"type":"text",
+			"text":"# Heding 1",
+			"styleAttributes":{},
+			"x":-290,
+			"y":20,
+			"width":300,
+			"height":80
+		},
+		{"id":"c9eae72f7872c838","type":"file","file":"Attachments/png/2026_05_01_01_06_43049.png","x":-340,"y":-360,"width":400,"height":267},
+		{
+			"id":"be5148ce539ee8c0",
+			"type":"text",
+			"text":"# ده عنوان كبير\n## ده عنوان اصغر\n",
+			"styleAttributes":{},
+			"x":-900,
+			"y":-433,
+			"width":260,
+			"height":227,
+			"color":"2"
+		},
+		{
+			"id":"be0c0d2606af59fe",
+			"type":"text",
+			"text":"ديه دايره",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":-1260,
+			"y":-460,
+			"width":260,
+			"height":280,
+			"color":"6"
+		},
+		{
+			"id":"40c8701b34921193",
+			"type":"text",
+			"text":"gameel da",
+			"styleAttributes":{},
+			"x":-380,
+			"y":860,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -197,6 +207,15 @@
 			"fromSide":"bottom",
 			"toNode":"3262068b6af61295",
 			"toSide":"top"
+		},
+		{
+			"id":"198ed3554f15028d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"40c8701b34921193",
+			"fromSide":"left",
+			"toNode":"463ee2cd3e13021a",
+			"toSide":"right"
 		}
 	],
 	"metadata":{
