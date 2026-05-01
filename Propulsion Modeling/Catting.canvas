@@ -108,6 +108,16 @@
 			"y":860,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"dd9300a615cf427e",
+			"type":"text",
+			"text":"esmaha car",
+			"styleAttributes":{},
+			"x":0,
+			"y":-40,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -215,6 +225,15 @@
 			"fromNode":"40c8701b34921193",
 			"fromSide":"left",
 			"toNode":"463ee2cd3e13021a",
+			"toSide":"right"
+		},
+		{
+			"id":"a6ee786479af46e1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"dd9300a615cf427e",
+			"fromSide":"left",
+			"toNode":"f5ba12fbf9c310c2",
 			"toSide":"right"
 		}
 	],
