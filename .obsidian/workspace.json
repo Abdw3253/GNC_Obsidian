@@ -32,17 +32,36 @@
               "state": {
                 "file": "Propulsion Modeling/Catting.canvas",
                 "viewState": {
+<<<<<<< HEAD
                   "x": -274.22328384368825,
                   "y": 17.29535291583612,
+=======
+                  "x": -236.45062374245552,
+                  "y": 1229.486519114687,
+>>>>>>> 9dcc5158f49516dd317ab423238845d6d649e898
                   "zoom": -0.2027692952161033
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Catting"
             }
+          },
+          {
+            "id": "40fd42cc4a3a8df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Propulsion Modeling/Lorem ipsum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lorem ipsum"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,10 +223,15 @@
       "github-sync:Sync with Remote": false
     }
   },
+<<<<<<< HEAD
   "active": "1541fe6907225853",
+=======
+  "active": "40fd42cc4a3a8df8",
+>>>>>>> 9dcc5158f49516dd317ab423238845d6d649e898
   "lastOpenFiles": [
-    "Propulsion Modeling/Lorem ipsum.md",
     "Propulsion Modeling/Catting.canvas",
+    "Propulsion Modeling/Untitled.md",
+    "Propulsion Modeling/Lorem ipsum.md",
     "Attachments/pdf/article_3.pdf",
     "Attachments/pdf",
     "Attachments/png/2026_05_01_01_06_43049.png",
